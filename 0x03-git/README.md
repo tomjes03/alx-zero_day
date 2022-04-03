@@ -1,1 +1,1 @@
-my first 0x03-git readme
+This repo is for alx SE task
