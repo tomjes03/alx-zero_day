@@ -1,1 +1,1 @@
-My first readme
+This repo is for alx SE task 
